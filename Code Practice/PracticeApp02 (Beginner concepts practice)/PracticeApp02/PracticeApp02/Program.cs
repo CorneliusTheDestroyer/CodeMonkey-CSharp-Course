@@ -16,10 +16,20 @@ namespace PracticeApp02
     {
         private class Customer
         {
-            public string name = "";
-            public string email = "";
+            public string name;
+            public string email;
             public int age;
-            public string city = "";
+            public string city;
+
+            public Customer()
+            {
+                name = "Unknown";
+                email = "Unknown";
+                age = 0;
+                city = "Unknown";
+
+                Console.WriteLine($"Created customer: {name}");
+            }
 
             public void HeaderDisplay()
             {
