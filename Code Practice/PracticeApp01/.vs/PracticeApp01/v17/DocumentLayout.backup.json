@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Learning\\CodeMonkey Course\\Code Practice\\PracticeApp01\\",
+  "WorkspaceRootPath": "C:\\Learning\\CodeMonkeyCSharp\\CodeMonkey-CSharp-Course\\Code Practice\\PracticeApp01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0BE16858-8256-4490-8471-9B60170C0500}|PracticeApp01\\PracticeApp01.csproj|c:\\learning\\codemonkey course\\code practice\\practiceapp01\\practiceapp01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0BE16858-8256-4490-8471-9B60170C0500}|PracticeApp01\\PracticeApp01.csproj|c:\\learning\\codemonkeycsharp\\codemonkey-csharp-course\\code practice\\practiceapp01\\practiceapp01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BE16858-8256-4490-8471-9B60170C0500}|PracticeApp01\\PracticeApp01.csproj|solutionrelative:practiceapp01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Learning\\CodeMonkey Course\\Code Practice\\PracticeApp01\\PracticeApp01\\Program.cs",
+              "DocumentMoniker": "C:\\Learning\\CodeMonkeyCSharp\\CodeMonkey-CSharp-Course\\Code Practice\\PracticeApp01\\PracticeApp01\\Program.cs",
               "RelativeDocumentMoniker": "PracticeApp01\\Program.cs",
-              "ToolTip": "C:\\Learning\\CodeMonkey Course\\Code Practice\\PracticeApp01\\PracticeApp01\\Program.cs",
+              "ToolTip": "C:\\Learning\\CodeMonkeyCSharp\\CodeMonkey-CSharp-Course\\Code Practice\\PracticeApp01\\PracticeApp01\\Program.cs",
               "RelativeToolTip": "PracticeApp01\\Program.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAowCQAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-02T07:21:00.369Z",
               "EditorCaption": ""

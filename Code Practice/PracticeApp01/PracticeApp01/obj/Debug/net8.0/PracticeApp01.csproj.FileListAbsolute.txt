@@ -13,3 +13,18 @@ C:\Learning\CodeMonkey Course\Code Practice\PracticeApp01\PracticeApp01\obj\Debu
 C:\Learning\CodeMonkey Course\Code Practice\PracticeApp01\PracticeApp01\obj\Debug\net8.0\PracticeApp01.genruntimeconfig.cache
 C:\Learning\CodeMonkey Course\Code Practice\PracticeApp01\PracticeApp01\obj\Debug\net8.0\ref\PracticeApp01.dll
 C:\Learning\CodeMonkey Course\Code Practice\PracticeApp01\PracticeApp01\obj\Debug\net8.0\PracticeApp01.sourcelink.json
+C:\Learning\CodeMonkeyCSharp\CodeMonkey-CSharp-Course\Code Practice\PracticeApp01\PracticeApp01\bin\Debug\net8.0\PracticeApp01.exe
+C:\Learning\CodeMonkeyCSharp\CodeMonkey-CSharp-Course\Code Practice\PracticeApp01\PracticeApp01\bin\Debug\net8.0\PracticeApp01.deps.json
+C:\Learning\CodeMonkeyCSharp\CodeMonkey-CSharp-Course\Code Practice\PracticeApp01\PracticeApp01\bin\Debug\net8.0\PracticeApp01.runtimeconfig.json
+C:\Learning\CodeMonkeyCSharp\CodeMonkey-CSharp-Course\Code Practice\PracticeApp01\PracticeApp01\bin\Debug\net8.0\PracticeApp01.dll
+C:\Learning\CodeMonkeyCSharp\CodeMonkey-CSharp-Course\Code Practice\PracticeApp01\PracticeApp01\bin\Debug\net8.0\PracticeApp01.pdb
+C:\Learning\CodeMonkeyCSharp\CodeMonkey-CSharp-Course\Code Practice\PracticeApp01\PracticeApp01\obj\Debug\net8.0\PracticeApp01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\CodeMonkeyCSharp\CodeMonkey-CSharp-Course\Code Practice\PracticeApp01\PracticeApp01\obj\Debug\net8.0\PracticeApp01.AssemblyInfoInputs.cache
+C:\Learning\CodeMonkeyCSharp\CodeMonkey-CSharp-Course\Code Practice\PracticeApp01\PracticeApp01\obj\Debug\net8.0\PracticeApp01.AssemblyInfo.cs
+C:\Learning\CodeMonkeyCSharp\CodeMonkey-CSharp-Course\Code Practice\PracticeApp01\PracticeApp01\obj\Debug\net8.0\PracticeApp01.csproj.CoreCompileInputs.cache
+C:\Learning\CodeMonkeyCSharp\CodeMonkey-CSharp-Course\Code Practice\PracticeApp01\PracticeApp01\obj\Debug\net8.0\PracticeApp01.sourcelink.json
+C:\Learning\CodeMonkeyCSharp\CodeMonkey-CSharp-Course\Code Practice\PracticeApp01\PracticeApp01\obj\Debug\net8.0\PracticeApp01.dll
+C:\Learning\CodeMonkeyCSharp\CodeMonkey-CSharp-Course\Code Practice\PracticeApp01\PracticeApp01\obj\Debug\net8.0\refint\PracticeApp01.dll
+C:\Learning\CodeMonkeyCSharp\CodeMonkey-CSharp-Course\Code Practice\PracticeApp01\PracticeApp01\obj\Debug\net8.0\PracticeApp01.pdb
+C:\Learning\CodeMonkeyCSharp\CodeMonkey-CSharp-Course\Code Practice\PracticeApp01\PracticeApp01\obj\Debug\net8.0\PracticeApp01.genruntimeconfig.cache
+C:\Learning\CodeMonkeyCSharp\CodeMonkey-CSharp-Course\Code Practice\PracticeApp01\PracticeApp01\obj\Debug\net8.0\ref\PracticeApp01.dll

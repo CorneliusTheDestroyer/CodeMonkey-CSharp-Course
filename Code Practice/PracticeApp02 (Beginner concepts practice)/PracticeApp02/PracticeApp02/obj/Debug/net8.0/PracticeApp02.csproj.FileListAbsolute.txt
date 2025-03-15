@@ -1,0 +1,15 @@
+C:\Learning\CodeMonkeyCSharp\CodeMonkey-CSharp-Course\Code Practice\PracticeApp02 (Beginner concepts practice)\PracticeApp02\PracticeApp02\bin\Debug\net8.0\PracticeApp02.exe
+C:\Learning\CodeMonkeyCSharp\CodeMonkey-CSharp-Course\Code Practice\PracticeApp02 (Beginner concepts practice)\PracticeApp02\PracticeApp02\bin\Debug\net8.0\PracticeApp02.deps.json
+C:\Learning\CodeMonkeyCSharp\CodeMonkey-CSharp-Course\Code Practice\PracticeApp02 (Beginner concepts practice)\PracticeApp02\PracticeApp02\bin\Debug\net8.0\PracticeApp02.runtimeconfig.json
+C:\Learning\CodeMonkeyCSharp\CodeMonkey-CSharp-Course\Code Practice\PracticeApp02 (Beginner concepts practice)\PracticeApp02\PracticeApp02\bin\Debug\net8.0\PracticeApp02.dll
+C:\Learning\CodeMonkeyCSharp\CodeMonkey-CSharp-Course\Code Practice\PracticeApp02 (Beginner concepts practice)\PracticeApp02\PracticeApp02\bin\Debug\net8.0\PracticeApp02.pdb
+C:\Learning\CodeMonkeyCSharp\CodeMonkey-CSharp-Course\Code Practice\PracticeApp02 (Beginner concepts practice)\PracticeApp02\PracticeApp02\obj\Debug\net8.0\PracticeApp02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\CodeMonkeyCSharp\CodeMonkey-CSharp-Course\Code Practice\PracticeApp02 (Beginner concepts practice)\PracticeApp02\PracticeApp02\obj\Debug\net8.0\PracticeApp02.AssemblyInfoInputs.cache
+C:\Learning\CodeMonkeyCSharp\CodeMonkey-CSharp-Course\Code Practice\PracticeApp02 (Beginner concepts practice)\PracticeApp02\PracticeApp02\obj\Debug\net8.0\PracticeApp02.AssemblyInfo.cs
+C:\Learning\CodeMonkeyCSharp\CodeMonkey-CSharp-Course\Code Practice\PracticeApp02 (Beginner concepts practice)\PracticeApp02\PracticeApp02\obj\Debug\net8.0\PracticeApp02.csproj.CoreCompileInputs.cache
+C:\Learning\CodeMonkeyCSharp\CodeMonkey-CSharp-Course\Code Practice\PracticeApp02 (Beginner concepts practice)\PracticeApp02\PracticeApp02\obj\Debug\net8.0\PracticeApp02.sourcelink.json
+C:\Learning\CodeMonkeyCSharp\CodeMonkey-CSharp-Course\Code Practice\PracticeApp02 (Beginner concepts practice)\PracticeApp02\PracticeApp02\obj\Debug\net8.0\PracticeApp02.dll
+C:\Learning\CodeMonkeyCSharp\CodeMonkey-CSharp-Course\Code Practice\PracticeApp02 (Beginner concepts practice)\PracticeApp02\PracticeApp02\obj\Debug\net8.0\refint\PracticeApp02.dll
+C:\Learning\CodeMonkeyCSharp\CodeMonkey-CSharp-Course\Code Practice\PracticeApp02 (Beginner concepts practice)\PracticeApp02\PracticeApp02\obj\Debug\net8.0\PracticeApp02.pdb
+C:\Learning\CodeMonkeyCSharp\CodeMonkey-CSharp-Course\Code Practice\PracticeApp02 (Beginner concepts practice)\PracticeApp02\PracticeApp02\obj\Debug\net8.0\PracticeApp02.genruntimeconfig.cache
+C:\Learning\CodeMonkeyCSharp\CodeMonkey-CSharp-Course\Code Practice\PracticeApp02 (Beginner concepts practice)\PracticeApp02\PracticeApp02\obj\Debug\net8.0\ref\PracticeApp02.dll
