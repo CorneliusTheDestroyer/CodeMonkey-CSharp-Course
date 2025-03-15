@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Learning\\CodeMonkeyCSharp\\CodeMonkey-CSharp-Course\\Code Practice\\PracticeApp02 (Beginner concepts practice)\\PracticeApp02\\",
+  "WorkspaceRootPath": "C:\\Learning\\CodeMonkey-CSharp-Course\\Code Practice\\PracticeApp02 (Beginner concepts practice)\\PracticeApp02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{828C5181-B7F2-4D71-A4ED-C31F3C44E30E}|PracticeApp02\\PracticeApp02.csproj|c:\\learning\\codemonkeycsharp\\codemonkey-csharp-course\\code practice\\practiceapp02 (beginner concepts practice)\\practiceapp02\\practiceapp02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{828C5181-B7F2-4D71-A4ED-C31F3C44E30E}|PracticeApp02\\PracticeApp02.csproj|c:\\learning\\codemonkey-csharp-course\\code practice\\practiceapp02 (beginner concepts practice)\\practiceapp02\\practiceapp02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{828C5181-B7F2-4D71-A4ED-C31F3C44E30E}|PracticeApp02\\PracticeApp02.csproj|solutionrelative:practiceapp02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Learning\\CodeMonkeyCSharp\\CodeMonkey-CSharp-Course\\Code Practice\\PracticeApp02 (Beginner concepts practice)\\PracticeApp02\\PracticeApp02\\Program.cs",
+              "DocumentMoniker": "C:\\Learning\\CodeMonkey-CSharp-Course\\Code Practice\\PracticeApp02 (Beginner concepts practice)\\PracticeApp02\\PracticeApp02\\Program.cs",
               "RelativeDocumentMoniker": "PracticeApp02\\Program.cs",
-              "ToolTip": "C:\\Learning\\CodeMonkeyCSharp\\CodeMonkey-CSharp-Course\\Code Practice\\PracticeApp02 (Beginner concepts practice)\\PracticeApp02\\PracticeApp02\\Program.cs",
+              "ToolTip": "C:\\Learning\\CodeMonkey-CSharp-Course\\Code Practice\\PracticeApp02 (Beginner concepts practice)\\PracticeApp02\\PracticeApp02\\Program.cs",
               "RelativeToolTip": "PracticeApp02\\Program.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAA9wEUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T08:35:42.86Z",
               "EditorCaption": ""
