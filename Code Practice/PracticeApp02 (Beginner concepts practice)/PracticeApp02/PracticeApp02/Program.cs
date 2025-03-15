@@ -1,13 +1,13 @@
 ﻿/*
 To implement and practice:
 --------------------------
-* If statements
-* Switch
-* Arrays
-* Loops
-* Class
-* Static
-* Access modifiers
+* If statements *done
+* Switch *done
+* Arrays *done
+* Loops *done
+* Class *done
+* Static *done
+* Access modifiers *done
 */
 
 namespace PracticeApp02
@@ -16,11 +16,10 @@ namespace PracticeApp02
     {
         private class Customer
         {
-            private int id;
-            public string name;
-            public string email;
+            public string name = "";
+            public string email = "";
             public int age;
-            public string city;
+            public string city = "";
 
             public void HeaderDisplay()
             {
@@ -32,7 +31,10 @@ namespace PracticeApp02
         }
         static void Main()
         {
-            string country;
+            string country = "";
+            bool isMinor = false;
+            bool isCity = false;
+            string[] cities = { "Joburg", "New York", "Sydney" };
 
             Customer customer = new Customer();
 
@@ -44,6 +46,22 @@ namespace PracticeApp02
 
             Console.WriteLine("Please enter Age: ");
             customer.age = int.Parse(Console.ReadLine());
+
+            if (customer.age < 18)
+                isMinor = true;
+            else
+                isMinor = false;
+
+            Console.WriteLine("Please enter City: ");
+            customer.city = Console.ReadLine();
+
+            for (int i = 0; i < cities.Length; i++)
+            {
+                if (customer.city == cities[i])
+                    isCity = true;
+                else
+                    isCity = false;
+            }
 
             switch (customer.city)
             {
@@ -57,13 +75,18 @@ namespace PracticeApp02
                     country = "Australia";
                     break;
                 default:
+                    country = "Unknown";
                     break;
             }
 
             customer.HeaderDisplay();
+
             Console.WriteLine($"Customer name: {customer.name}");
             Console.WriteLine($"Email address: {customer.email}");
-            Console.WriteLine($"Age: {customer.age}");
+            Console.Write($"Age: {customer.age}, ");
+            Console.WriteLine(isMinor ? "Customer is a minor" : "Customer is an adult");
+            Console.Write($"City: {customer.city}, {country} - (");
+            Console.WriteLine(isCity ? "City is valid)" : "City is invalid)");
         }
     }
 }
