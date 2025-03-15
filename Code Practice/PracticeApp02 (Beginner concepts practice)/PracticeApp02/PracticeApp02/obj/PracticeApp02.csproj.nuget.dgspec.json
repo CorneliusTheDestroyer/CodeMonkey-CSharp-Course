@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Learning\\CodeMonkeyCSharp\\CodeMonkey-CSharp-Course\\Code Practice\\PracticeApp02 (Beginner concepts practice)\\PracticeApp02\\PracticeApp02\\PracticeApp02.csproj": {}
+    "C:\\Learning\\CodeMonkey-CSharp-Course\\Code Practice\\PracticeApp02 (Beginner concepts practice)\\PracticeApp02\\PracticeApp02\\PracticeApp02.csproj": {}
   },
   "projects": {
-    "C:\\Learning\\CodeMonkeyCSharp\\CodeMonkey-CSharp-Course\\Code Practice\\PracticeApp02 (Beginner concepts practice)\\PracticeApp02\\PracticeApp02\\PracticeApp02.csproj": {
+    "C:\\Learning\\CodeMonkey-CSharp-Course\\Code Practice\\PracticeApp02 (Beginner concepts practice)\\PracticeApp02\\PracticeApp02\\PracticeApp02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Learning\\CodeMonkeyCSharp\\CodeMonkey-CSharp-Course\\Code Practice\\PracticeApp02 (Beginner concepts practice)\\PracticeApp02\\PracticeApp02\\PracticeApp02.csproj",
+        "projectUniqueName": "C:\\Learning\\CodeMonkey-CSharp-Course\\Code Practice\\PracticeApp02 (Beginner concepts practice)\\PracticeApp02\\PracticeApp02\\PracticeApp02.csproj",
         "projectName": "PracticeApp02",
-        "projectPath": "C:\\Learning\\CodeMonkeyCSharp\\CodeMonkey-CSharp-Course\\Code Practice\\PracticeApp02 (Beginner concepts practice)\\PracticeApp02\\PracticeApp02\\PracticeApp02.csproj",
-        "packagesPath": "C:\\Users\\corne.stols\\.nuget\\packages\\",
-        "outputPath": "C:\\Learning\\CodeMonkeyCSharp\\CodeMonkey-CSharp-Course\\Code Practice\\PracticeApp02 (Beginner concepts practice)\\PracticeApp02\\PracticeApp02\\obj\\",
+        "projectPath": "C:\\Learning\\CodeMonkey-CSharp-Course\\Code Practice\\PracticeApp02 (Beginner concepts practice)\\PracticeApp02\\PracticeApp02\\PracticeApp02.csproj",
+        "packagesPath": "C:\\Users\\revan\\.nuget\\packages\\",
+        "outputPath": "C:\\Learning\\CodeMonkey-CSharp-Course\\Code Practice\\PracticeApp02 (Beginner concepts practice)\\PracticeApp02\\PracticeApp02\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\corne.stols\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\revan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
