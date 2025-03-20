@@ -22,35 +22,11 @@ To implement and practice:
 
 namespace PracticeApp02
 {
-    enum DaysOfWeek
-    {
-        Sunday,
-        Monday,
-        Tuesday,
-        Wednesday,
-        Thursday,
-        Friday,
-        Saturday
-    }
-
-    enum MonthsOfYear
-    {
-        January,
-        February,
-        March,
-        April,
-        May,
-        June,
-        July,
-        August,
-        September,
-        October,
-        November,
-        December
-    }
-
+    
     class Program
     {
+        delegate void MyMessages(string str);
+
         public interface IDrink 
         {
             public void DrinkCofee();
@@ -76,6 +52,7 @@ namespace PracticeApp02
             {
                 Console.WriteLine("Person Data Deconstructed");
             }
+
         }
 
         private class Customer : Person, IDrink
@@ -160,6 +137,11 @@ namespace PracticeApp02
         }
 
 
+        public void MyTextMessages(string str)
+        {
+            Console.WriteLine($"My test text: {str}");
+        }
+
         static void Main()
         {
             string country = "";
@@ -177,6 +159,8 @@ namespace PracticeApp02
             Program program = new Program();
             program.DrinkAlotOfCofee(customer);
             program.DrinkAlotOfCofee(employee);
+
+            MyMessages myMessages = MyTextMessages;
             
 
             ////Polymorphism test
