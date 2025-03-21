@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Learning\\CodeMonkey-CSharp-Course\\Code Practice\\PracticeApp05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B625361A-C6A4-447B-B4B7-237CB6B7DCC1}|PracticeApp05\\PracticeApp05.csproj|c:\\learning\\codemonkey-csharp-course\\code practice\\practiceapp05\\practiceapp05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B625361A-C6A4-447B-B4B7-237CB6B7DCC1}|PracticeApp05\\PracticeApp05.csproj|solutionrelative:practiceapp05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learning\\CodeMonkey-CSharp-Course\\Code Practice\\PracticeApp05\\PracticeApp05\\Program.cs",
+              "RelativeDocumentMoniker": "PracticeApp05\\Program.cs",
+              "ToolTip": "C:\\Learning\\CodeMonkey-CSharp-Course\\Code Practice\\PracticeApp05\\PracticeApp05\\Program.cs",
+              "RelativeToolTip": "PracticeApp05\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T08:21:51.07Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

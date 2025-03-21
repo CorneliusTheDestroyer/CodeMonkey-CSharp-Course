@@ -1,0 +1,15 @@
+C:\Learning\CodeMonkey-CSharp-Course\Code Practice\PracticeApp05\PracticeApp05\bin\Debug\net8.0\PracticeApp05.exe
+C:\Learning\CodeMonkey-CSharp-Course\Code Practice\PracticeApp05\PracticeApp05\bin\Debug\net8.0\PracticeApp05.deps.json
+C:\Learning\CodeMonkey-CSharp-Course\Code Practice\PracticeApp05\PracticeApp05\bin\Debug\net8.0\PracticeApp05.runtimeconfig.json
+C:\Learning\CodeMonkey-CSharp-Course\Code Practice\PracticeApp05\PracticeApp05\bin\Debug\net8.0\PracticeApp05.dll
+C:\Learning\CodeMonkey-CSharp-Course\Code Practice\PracticeApp05\PracticeApp05\bin\Debug\net8.0\PracticeApp05.pdb
+C:\Learning\CodeMonkey-CSharp-Course\Code Practice\PracticeApp05\PracticeApp05\obj\Debug\net8.0\PracticeApp05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\CodeMonkey-CSharp-Course\Code Practice\PracticeApp05\PracticeApp05\obj\Debug\net8.0\PracticeApp05.AssemblyInfoInputs.cache
+C:\Learning\CodeMonkey-CSharp-Course\Code Practice\PracticeApp05\PracticeApp05\obj\Debug\net8.0\PracticeApp05.AssemblyInfo.cs
+C:\Learning\CodeMonkey-CSharp-Course\Code Practice\PracticeApp05\PracticeApp05\obj\Debug\net8.0\PracticeApp05.csproj.CoreCompileInputs.cache
+C:\Learning\CodeMonkey-CSharp-Course\Code Practice\PracticeApp05\PracticeApp05\obj\Debug\net8.0\PracticeApp05.sourcelink.json
+C:\Learning\CodeMonkey-CSharp-Course\Code Practice\PracticeApp05\PracticeApp05\obj\Debug\net8.0\PracticeApp05.dll
+C:\Learning\CodeMonkey-CSharp-Course\Code Practice\PracticeApp05\PracticeApp05\obj\Debug\net8.0\refint\PracticeApp05.dll
+C:\Learning\CodeMonkey-CSharp-Course\Code Practice\PracticeApp05\PracticeApp05\obj\Debug\net8.0\PracticeApp05.pdb
+C:\Learning\CodeMonkey-CSharp-Course\Code Practice\PracticeApp05\PracticeApp05\obj\Debug\net8.0\PracticeApp05.genruntimeconfig.cache
+C:\Learning\CodeMonkey-CSharp-Course\Code Practice\PracticeApp05\PracticeApp05\obj\Debug\net8.0\ref\PracticeApp05.dll
