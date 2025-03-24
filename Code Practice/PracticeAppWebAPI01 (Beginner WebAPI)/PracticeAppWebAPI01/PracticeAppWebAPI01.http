@@ -1,0 +1,15 @@
+@PracticeAppWebAPI01_HostAddress = https://localhost:7071
+
+GET {{PracticeAppWebAPI01_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+POST {{PracticeAppWebAPI01_HostAddress}}/api/superhero
+Content-Type: application/json
+
+{
+  //SuperHero
+}
+
+###
